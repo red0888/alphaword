@@ -1,2 +1,0 @@
-# alphaword
-s
